@@ -3,14 +3,6 @@
 if (!defined('BASEPATH'))
 	exit('No direct script access allowed');
 
-// the menu basics (text navbar)
-$config['menu_choices'] = array(
-	'menudata' => array(
-		array('name' => "Alpha", 'link' => '/alpha'),
-		array('name' => "Beta", 'link' => '/beta'),
-		array('name' => "Gamma", 'link' => '/gamma'),
-	)
-);
 
 /*
   |--------------------------------------------------------------------------
